@@ -4,6 +4,10 @@
 
 Additional core utilities that are implemented in xonsh.
 
+```xsh
+xontrib load coreutils
+```
+
 The current list includes:
 * cat
 * echo
